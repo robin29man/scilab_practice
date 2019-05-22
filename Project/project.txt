@@ -1,0 +1,35 @@
+
+\Project のディレクトリ
+
+\Project\Chapt2 のディレクトリ
+　Book1.xls
+　data
+　eq.sce
+　eq.sci
+
+\Project\Chapt3 のディレクトリ
+　Book1.xlsx
+　datafit1.sce
+　datafit2.sce
+　datafit3.sce
+　movave.sci
+　movavew.sci
+　readBook1.sce
+
+\Project\Chapt5 のディレクトリ
+　data
+　mr
+　my4
+　myfile
+　test.sce
+
+\Project\Chapt6 のディレクトリ
+　data61
+　data63
+　data64
+　data8
+　findmin.sce
+　findmin2.sce
+　myfunc.sci
+　myfunc2.sci
+　normal.sce
